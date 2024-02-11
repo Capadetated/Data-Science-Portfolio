@@ -30,3 +30,11 @@ Neural Network Analysis on Phishing Data
 K-Means Clustering Analysis on Protein Localization Sites
 * https://github.com/Capadetated/K-Means-Protein-Localization
 * This R-based project used K-Means Clustering to find patterns in a dataset of protein localization sites.
+
+_________________________________________________________
+SAS Enterprise Miner-Based Projects
+
+Support Vector Machine Predictive Analysis on Bank Loan Data
+* https://github.com/Capadetated/SVM-Modeling-on-Universal-Bank-Dataset/
+* This SAS Enterprise Miner-based project used 12 SVM models to predict whether customers would accept a personal loan from their bank.
+  
