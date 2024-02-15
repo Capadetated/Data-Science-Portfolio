@@ -37,4 +37,8 @@ SAS Enterprise Miner-Based Projects
 Support Vector Machine Predictive Analysis on Bank Loan Data
 * https://github.com/Capadetated/SVM-Modeling-on-Universal-Bank-Dataset/
 * This SAS Enterprise Miner-based project used 12 SVM models to predict whether customers would accept a personal loan from their bank.
+
+Ensemble Modeling Predictive Analysis on Bank Loan Data
+* https://github.com/Capadetated/Ensemble-Modeling-on-Universal-Bank-Dataset/tree/main
+* This SAS Enterprise Miner-based project used 15 SVM and Ensemble models to predict whether customers would accept a personal loan from their bank.
   
