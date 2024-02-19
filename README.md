@@ -41,4 +41,7 @@ Support Vector Machine Predictive Analysis on Bank Loan Data
 Ensemble Modeling Predictive Analysis on Bank Loan Data
 * https://github.com/Capadetated/Ensemble-Modeling-on-Universal-Bank-Dataset/tree/main
 * This SAS Enterprise Miner-based project used 15 SVM and Ensemble models to predict whether customers would accept a personal loan from their bank.
-  
+
+Ensemble Modeling Predictive Analysis on Bank Loan Data (Heterogenous Ensemble Models)
+* https://github.com/Capadetated/Ensemble-Modeling-2-on-Universal-Bank-Dataset  
+* This SAS Enterprise Miner-based project used 4 weaker models and 12 Heterogenous Ensemble models to predict whether customers would accept a personal loan from their bank.
