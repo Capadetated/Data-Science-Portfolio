@@ -4,8 +4,13 @@ Great to meet you! I'm a high-throughput analytical biochemist, data scientist i
 
 You can count on me to be a life-long learner, an excellent communicator, and an advocate for collaboration. Outside of work, I enjoy Brazilian Jiu-Jitsu 🟦, volunteering ⛪, mountaineering ⛰️, long-distance biking 🚴‍♂️, and reading about sociology, psychology, and philosophy.
 
-This contains some of the projects I've created using Python, R, SAS Enterprise Miner, Tableau, SQL, and IBM Cognos Analytics. If you have any questions, please reach out to me.
-
+If you have any questions, please reach out to me. This contains some of the projects I've created using:
+* [Python](https://github.com/Capadetated/Data-Science-Portfolio/blob/gh-pages/README.md#python-based-projects) 
+* [R](https://github.com/Capadetated/Data-Science-Portfolio/blob/gh-pages/README.md#r-based-projects)
+* [SAS Enterprise Miner](https://github.com/Capadetated/Data-Science-Portfolio/blob/gh-pages/README.md#sas-enterprise-miner-based-projects)
+* [Tableau](https://github.com/Capadetated/Data-Science-Portfolio/blob/gh-pages/README.md#tableau-based-projects)
+* [SQL](https://github.com/Capadetated/Data-Science-Portfolio/blob/gh-pages/README.md#SQL-based-projects)
+* [IBM Cognos Analytics](https://github.com/Capadetated/Data-Science-Portfolio/blob/gh-pages/README.md#ibm-cognos-analytics-based-projects)
 _________________________________________________________
 # Python-Based Projects
 
