@@ -47,6 +47,12 @@ Ensemble Modeling Predictive Analysis on Bank Loan Data (Heterogenous Ensemble M
 * This SAS Enterprise Miner-based project used 4 weaker models and 12 Heterogenous Ensemble models to predict whether customers would accept a personal loan from their bank.
 
 _________________________________________________________
+# Tableau-Based Projects
+
+Video Presentation of TSLA Stock Prediction
+* https://github.com/Capadetated/TSLA-Stock-Presentation
+* This Tableau-based video presentation urged investors should hold their Tesla stocks based on current trends of early 2021 and correctly predicted that TSLA market capitalization would outperform the modeled $765 billion in Dec 2021.
+_________________________________________________________
 # IBM Cognos Analytics-Based Projects
 
 Exploratory Data Analysis and Dashboarding on Car Fuel Data
