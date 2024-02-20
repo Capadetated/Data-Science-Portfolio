@@ -1,5 +1,5 @@
 # Data-Science-Portfolio
-This contains some of the projects I've created during my M.S. in Data Analytics using Python, R, SAS Enterprise Miner, Tableau, SQL, and IBM Cognos.
+This contains some of the projects I've created during my M.S. in Data Analytics using Python, R, SAS Enterprise Miner, Tableau, SQL, and IBM Cognos Analytics.
 
 _________________________________________________________
 # Python-Based Projects
