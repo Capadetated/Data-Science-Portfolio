@@ -31,6 +31,10 @@ K-Means Clustering Analysis on Protein Localization Sites
 * https://github.com/Capadetated/K-Means-Protein-Localization
 * This R-based project used K-Means Clustering to find patterns in a dataset of protein localization sites.
 
+Textual analysis of Online Hotel Reviews
+* https://github.com/Capadetated/Text-Analysis-Hotel-Reviews
+* This R-based project used textual analysis of >35,000 hotel reviews to identify key insights for hotels (group project).
+
 _________________________________________________________
 # SAS Enterprise Miner-Based Projects
 
