@@ -2,7 +2,7 @@
 
 Great to meet you! I'm a high-throughput analytical biochemist, data scientist in training, QC professional, and manager. I'm experienced at delivering results in cross-functional teams and autonomously. I'm motivated by understanding complex issues and implementing tactical solutions. Currently attending Univeristy of Maryland to obtain an M.S. in data analytics.
 
-You can count on me to be a life-long learner, an excellent communicator, and an advocate for collaboration. Outside of work, I enjoy Brazilian Jiu-Jitsu 🟦, volunteering ⛪, mountaineering ⛰️, long-distance biking 🚴‍♂️, and reading about sociology, psychology, and philosophy.
+You can count on me to be a life-long learner, an excellent communicator, and an advocate for collaboration. Outside of work, I enjoy Brazilian Jiu-Jitsu 🟦, volunteering ⛪, mountaineering ⛰️, long-distance biking 🚴‍♂️, and reading 📖 about sociology, psychology, and philosophy.
 
 If you have any questions, please reach out to me. This contains some of the projects I've created using:
 * [Python](https://github.com/Capadetated/Data-Science-Portfolio/blob/gh-pages/README.md#python-based-projects) 
@@ -25,11 +25,11 @@ _________________________________________________________
 * https://github.com/Capadetated/Association-Mining-Wages
 * This R-based project used Association Mining to find patterns within a dataset pertaining to wages.
 
-**Logistic Regression Analysis on Heart Disease** :heart:	
+**Logistic Regression Analysis on Heart Disease** :heart:🧑‍⚕️
 * https://github.com/Capadetated/SA-Heart-Logistic-Regression
 * This R-based project used Logistic Regression to predict whether a person had heart disease or not.
 
-**Decision Tree Analysis on Pima Indian Diabetes** :deciduous_tree:	
+**Decision Tree Analysis on Pima Indian Diabetes** :deciduous_tree:🍬
 * https://github.com/Capadetated/Decision-Tree-Pima-Diabetes
 * This R-based project used Decision Tree analysis to predict whether a Pima individual would likely develop diabetes.
 
