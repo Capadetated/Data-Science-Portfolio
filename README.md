@@ -52,11 +52,18 @@ _________________________________________________________
 Video Presentation of TSLA Stock Prediction
 * https://github.com/Capadetated/TSLA-Stock-Presentation
 * This Tableau-based video presentation urged investors should hold their Tesla stocks based on current trends of early 2021 and correctly predicted that TSLA market capitalization would outperform the modeled $765 billion in Dec 2021.
+
+_________________________________________________________
+# SQL-Based Projects
+
+Extract, Transform, and Load (ETL) Via SQL Executive Summary
+* https://github.com/Capadetated/SQL-ETL-Executive-Summary
+* This SQL-based executive summary demonstrates a typical ETL process, shows an ERD, and makes recommendations for best data warehousing approach (group project).
 _________________________________________________________
 # IBM Cognos Analytics-Based Projects
 
 Exploratory Data Analysis and Dashboarding on Car Fuel Data
-* https://github.com/Capadetated/Cars-Dataset-Exploration/tree/main
+* https://github.com/Capadetated/Cars-Dataset-Exploration
 * This IBM Cognos-based project used a variety of dashboards to show insights gained, and 2 Decision Trees to predict average MPG and Horsepower (group project).
 
 Exploratory Data Analysis and Dashboarding on Nashville Housing Market Data
