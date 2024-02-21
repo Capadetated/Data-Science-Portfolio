@@ -11,6 +11,8 @@ If you have any questions, please reach out to me. This contains some of the pro
 * [Tableau](https://github.com/Capadetated/Data-Science-Portfolio/blob/gh-pages/README.md#tableau-based-projects)
 * [SQL](https://github.com/Capadetated/Data-Science-Portfolio/blob/gh-pages/README.md#SQL-based-projects)
 * [IBM Cognos Analytics](https://github.com/Capadetated/Data-Science-Portfolio/blob/gh-pages/README.md#ibm-cognos-analytics-based-projects)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=capadetated)](https://github.com/capadetated/github-readme-stats)
 _________________________________________________________
 # Python-Based Projects
 
