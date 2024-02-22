@@ -2,7 +2,7 @@
 
 Great to meet you! I'm a high-throughput analytical biochemist, data scientist in training, QC professional, and manager. I'm experienced at delivering results in cross-functional teams and autonomously. I'm motivated by understanding complex issues and implementing tactical solutions. Currently attending Univeristy of Maryland to obtain an M.S. in data analytics.
 
-You can count on me to be a life-long learner, an excellent communicator, and an advocate for collaboration. Outside of work, I enjoy Brazilian Jiu-Jitsu 🟦, volunteering ⛪, mountaineering ⛰️, long-distance biking 🚴‍♂️, and reading 📖 about sociology, psychology, and philosophy.
+You can count on me to be a life-long learner, an excellent communicator, and an advocate for collaboration. Outside of work, I enjoy Brazilian Jiu-Jitsu 🟦, volunteering ⛪, mountaineering ⛰️, long-distance cycling 🚴‍♂️, and reading 📖 about sociology, psychology, and philosophy.
 
 If you have any questions, please reach out to me. This contains some of the projects I've created using:
 * [Python](https://github.com/Capadetated/Data-Science-Portfolio/blob/gh-pages/README.md#python-based-projects) 
