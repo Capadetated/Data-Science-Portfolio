@@ -20,6 +20,10 @@ _________________________________________________________
 * https://github.com/Capadetated/IBM-Annual-Report-Text-Analysis
 * This Python-based project used Textual Analysis to find patterns within the IBM annual reports to make suggestions for future improvements.
 
+**Convolutional Neural Network Prediction of Fashion MNIST Dataset** 🧠👕👜👢
+* https://github.com/Capadetated/CNN-Fashion-MNIST
+* This used 8 CNN (Convolutional Neural Network) models to predict whether an image belonged to one of ten classes (T-shirt, Trouser, Pullover, Dress, Coat, Sandal, Shirt, Sneaker, Bag, or Ankle Boot). The best model had a 91.73% accuracy.
+
 _________________________________________________________
 # R-Based Projects
 
