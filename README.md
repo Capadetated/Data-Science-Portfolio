@@ -24,6 +24,10 @@ _________________________________________________________
 * https://github.com/Capadetated/CNN-Fashion-MNIST
 * This used 8 CNN (Convolutional Neural Network) models to predict whether an image belonged to one of ten classes (T-shirt, Trouser, Pullover, Dress, Coat, Sandal, Shirt, Sneaker, Bag, or Ankle Boot). The best model had a 91.73% accuracy.
 
+**Reinforcement Learning: Tic-Tac-Toe** 🎮❌⭕
+* https://github.com/Capadetated/RL-Tic-Tac-Toe
+* This Python-based project used Tabular Q-learning in order to play Tic-Tac-Toe. 6 iterations of agents were created to play in a 3x3 and 4x4 grid
+
 _________________________________________________________
 # R-Based Projects
 
