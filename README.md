@@ -28,6 +28,9 @@ _________________________________________________________
 * https://github.com/Capadetated/RL-Tic-Tac-Toe
 * This Python-based project used Tabular Q-learning in order to play Tic-Tac-Toe. 6 iterations of agents were created to play in a 3x3 and 4x4 grid
 
+**Reinforcement Learning: Environment Navigation** 🤖⬆️⬇️⬅️➡️
+* https://github.com/Capadetated/RL-Environment-Navigation/
+* This Python-based project used Tabular Q-learning in order to teach an agent learning to navigate a simulated environment.
 _________________________________________________________
 # R-Based Projects
 
