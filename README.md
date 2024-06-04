@@ -11,6 +11,7 @@ If you have any questions, please reach out to me. This contains some of the pro
 * [Tableau](https://github.com/Capadetated/Data-Science-Portfolio/blob/gh-pages/README.md#tableau-based-projects)
 * [SQL](https://github.com/Capadetated/Data-Science-Portfolio/blob/gh-pages/README.md#SQL-based-projects)
 * [IBM Cognos Analytics](https://github.com/Capadetated/Data-Science-Portfolio/blob/gh-pages/README.md#ibm-cognos-analytics-based-projects)
+* [HBase](https://github.com/Capadetated/Data-Science-Portfolio/blob/gh-pages/README.md#hbase-based-projects)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=capadetated&layout=pie&langs_count=8)
 _________________________________________________________
@@ -108,3 +109,10 @@ _________________________________________________________
 **Exploratory Data Analysis and Dashboarding on Used Car Data** :blue_car:	
 * https://github.com/Capadetated/Used-Car-EDA-And-Storytelling
 * This IBM Cognos-based project used EDA to gain insights to this dataset. The report also generated 3 decision trees to predict car prices: 1. all vehicles: 81% 2. diesel cars only: 75% 3. petrol cars only (76%).
+
+_________________________________________________________
+# HBase-Based Projects
+
+**HBase Academic Record System** 🏫🖥️	
+* https://github.com/Capadetated/HBase-Academic-Record-System
+* This HBase-based project discussed the major concepts of HBase/Hadoop and then described setting up an academic records database that could store a hundred million users.
