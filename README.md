@@ -15,6 +15,10 @@ If you have any questions, please reach out to me. This contains some of the pro
 * [Spark](https://github.com/Capadetated/Data-Science-Portfolio/blob/gh-pages/README.md#spark-based-projects)
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=capadetated&layout=pie&langs_count=8)
+
+(HTML and Jupyter subtracted above to show proportions of other languages)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=capadetated&layout=compact&langs_count=10)
 _________________________________________________________
 # Python-Based Projects
 
