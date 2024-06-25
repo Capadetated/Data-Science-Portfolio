@@ -12,7 +12,8 @@ If you have any questions, please reach out to me. This contains some of the pro
 * [SQL](https://github.com/Capadetated/Data-Science-Portfolio/blob/gh-pages/README.md#SQL-based-projects)
 * [IBM Cognos Analytics](https://github.com/Capadetated/Data-Science-Portfolio/blob/gh-pages/README.md#ibm-cognos-analytics-based-projects)
 * [HBase](https://github.com/Capadetated/Data-Science-Portfolio/blob/gh-pages/README.md#hbase-based-projects)
-
+* [Spark](https://github.com/Capadetated/Data-Science-Portfolio/blob/gh-pages/README.md#spark-based-projects)
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=capadetated&layout=pie&langs_count=8)
 _________________________________________________________
 # Python-Based Projects
@@ -116,3 +117,13 @@ _________________________________________________________
 **HBase Academic Record System** 🏫🖥️	
 * https://github.com/Capadetated/HBase-Academic-Record-System
 * This HBase-based project discussed the major concepts of HBase/Hadoop and then described setting up an academic records database that could store a hundred million users.
+
+
+_________________________________________________________
+# Spark-Based Projects
+
+**Spark Machine Learning** ✨🛳️👶🖥️	
+* https://github.com/Capadetated/Spark-Machine-Learning
+* This Spark-based project written in Python used a logistic regression model to obtain a 77.6% accuracy predicting Titanic survivors. It also used 6 models to predict whether an infant would have low or healthy birth weight. There was a logistic regression, naive bayes, and gradient boosting model, and these were run twice: once with the original dataset, and once with the minor target class values duplicated to account for heavy imbalance. This saw an accuracy of 81.4% (logistic regression) and recall of 70.6% (naive bayes, using duplication).
+
+
