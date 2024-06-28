@@ -79,7 +79,7 @@ _________________________________________________________
 * https://github.com/Capadetated/Ensemble-Modeling-2-on-Universal-Bank-Dataset  
 * This SAS Enterprise Miner-based project used 4 weaker models and 12 Heterogenous Ensemble models to predict whether customers would accept a personal loan from their bank.
 
-**AutoML Predictive Analysis oBank Loan Data via DataRobot** :robot::bar_chart::repeat::bank:📈
+**AutoML Predictive Analysis on Bank Loan Data via DataRobot** :robot::bar_chart::repeat::bank:📈
 * https://github.com/Capadetated/AutoML-Universal-Bank-Dataset
 * This DataRobot-based project used 8 models to predict whether customers would accept a personal loan from their bank, and compared them to the best SAS-EM-based models from previous analyses to demonstrate the AutoML ability to increase accuracy.
 
