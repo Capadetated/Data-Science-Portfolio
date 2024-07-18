@@ -64,6 +64,10 @@ _________________________________________________________
 * https://github.com/Capadetated/Text-Analysis-Hotel-Reviews
 * This R-based project used textual analysis of >35,000 hotel reviews to identify key insights for hotels (group project).
 
+**Sentiment Analysis of GOP Primary Debate Tweets** 🦅👨‍💼⌨️🗣️
+* https://github.com/Capadetated/GOP_Debate_2015_Tweets
+* This SQL and R-based project analyzed >13,000 Tweets using SQL to perform EDA in DB2 and R to perform sentiment analysis.
+
 _________________________________________________________
 # SAS Enterprise Miner-Based Projects
 
