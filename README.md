@@ -13,7 +13,8 @@ If you have any questions, please reach out to me. This contains some of the pro
 * [IBM Cognos Analytics](https://github.com/Capadetated/Data-Science-Portfolio/blob/gh-pages/README.md#ibm-cognos-analytics-based-projects)
 * [HBase](https://github.com/Capadetated/Data-Science-Portfolio/blob/gh-pages/README.md#hbase-based-projects)
 * [Spark](https://github.com/Capadetated/Data-Science-Portfolio/blob/gh-pages/README.md#spark-based-projects)
-  
+* [Watson Assistant](https://github.com/Capadetated/Data-Science-Portfolio/blob/gh-pages/README.md#watson-assistant-based-projects)
+   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=capadetated&layout=pie&langs_count=8&hide=html,jupyter%20notebook)
 
 (HTML and Jupyter subtracted above to show proportions of other languages)
@@ -134,4 +135,11 @@ _________________________________________________________
 * https://github.com/Capadetated/Spark-Machine-Learning
 * This Spark-based project written in Python used a logistic regression model to obtain a 77.6% accuracy predicting Titanic survivors. It also used 6 models to predict whether an infant would have low or healthy birth weight. There was a logistic regression, naive bayes, and gradient boosting model, and these were run twice: once with the original dataset, and once with the minor target class values duplicated to account for heavy imbalance. This saw an accuracy of 81.4% (logistic regression) and recall of 70.6% (naive bayes, using duplication).
 
+
+_________________________________________________________
+# Watson Assistant-Based Projects
+
+**Vida Rica Chatbot Development** 🖥️🗨️🌮🌯
+* https://github.com/Capadetated/Vida-Rica-Chatbot
+* This Watson Assistant-based project showcased how a chatbot can be designed, developed, implemented, and improved. An example chatbot was made for a fictional restaurant, Vida Rica, which has functions to order food, confirm order, gather emails/feedback, and give various types of information.
 
