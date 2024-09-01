@@ -14,7 +14,8 @@ If you have any questions, please reach out to me. This contains some of the pro
 * [HBase](https://github.com/Capadetated/Data-Science-Portfolio/blob/gh-pages/README.md#hbase-based-projects)
 * [Spark](https://github.com/Capadetated/Data-Science-Portfolio/blob/gh-pages/README.md#spark-based-projects)
 * [Watson Assistant](https://github.com/Capadetated/Data-Science-Portfolio/blob/gh-pages/README.md#watson-assistant-based-projects)
-   
+* [Presentations](https://github.com/Capadetated/Data-Science-Portfolio/blob/gh-pages/README.md#presentations)
+     
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=capadetated&layout=pie&langs_count=8&hide=html,jupyter%20notebook)
 
 (HTML and Jupyter subtracted above to show proportions of other languages)
@@ -143,3 +144,9 @@ _________________________________________________________
 * https://github.com/Capadetated/Vida-Rica-Chatbot
 * This Watson Assistant-based project showcased how a chatbot can be designed, developed, implemented, and improved. An example chatbot was made for a fictional restaurant, Vida Rica, which has functions to order food, confirm order, gather emails/feedback, and give various types of information.
 
+_________________________________________________________
+# Presentations
+
+**UMGC Insight Summit** 🤖⚕️🏥
+* https://github.com/Capadetated/AI-Agent-Everyday-Health/
+* This presentation explores how AI agents in wearable devices could revolutionize healthcare by enhancing patients' physical, mental, and emotional well-being.
