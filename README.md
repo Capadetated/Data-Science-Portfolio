@@ -24,6 +24,10 @@ If you have any questions, please reach out to me. This contains some of the pro
 _________________________________________________________
 # Python-Based Projects
 
+**CAPSTONE PROJECT // COVID-19 Patient ICU Admission and Mortality Prediction** 🟢⚪🔴🩺🏥
+* https://github.com/Capadetated/Covid19-Capstone/tree/main
+* This Python-based project made 14 models to predict COVID-19 ICU admission and mortality by integrating 2 patient datasets from the Mexican Ministry of Health with 1.6 million records. The best model (DT_M_F1) achieved 88.2% accuracy and 94.6% sensitivity through data cleaning, feature engineering, and predictive modeling techniques.
+
 **IBM Annual Report Textual Analysis** :desktop_computer::page_facing_up:	
 * https://github.com/Capadetated/IBM-Annual-Report-Text-Analysis
 * This Python-based project used Textual Analysis to find patterns within the IBM annual reports to make suggestions for future improvements.
