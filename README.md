@@ -4,6 +4,8 @@ Great to meet you! I'm a high-throughput analytical biochemist, data scientist i
 
 You can count on me to be a life-long learner, an excellent communicator, and an advocate for collaboration. Outside of work, I enjoy Brazilian Jiu-Jitsu 🟦🥋, volunteering ⛪, mountaineering ⛰️, long-distance cycling 🚴‍♂️, and reading 📖 about sociology, psychology, and philosophy.
 
+You can see my [diploma here](https://github.com/Capadetated/Diploma/blob/main/Theodore%20Fitch%20MSDA%20Diploma.pdf).
+
 If you have any questions, please reach out to me. This contains some of the projects I've created using:
 * [Python](https://github.com/Capadetated/Data-Science-Portfolio/blob/gh-pages/README.md#python-based-projects) 5 Projects
 * [R](https://github.com/Capadetated/Data-Science-Portfolio/blob/gh-pages/README.md#r-based-projects) 7 Projects
